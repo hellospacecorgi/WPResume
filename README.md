@@ -6,7 +6,7 @@ Link to WordPress resume blog: http://spacecorgicoding.azurewebsites.net/
 ## Plugin consideration and implementation
 
 1.	SEO plugin : Yoast SEO
-    - Benefits over other plugins: Feedback on SEO performance as edits are made, let author be conscious of word choice, preview of search appearance
+    - Benefits over other plugins: Feedback on readability/SEO analysis as edits are made, let author be conscious of word choice, preview of search appearance
     - High level implementation: Configuration wizard that has a simple and no-code interface to set up preferences for content type (Blog/forum/portfolio – chose portfolio for resume), author names
 2.	Cache management plugin to improve site speed : W3 Total Cache
     - Benefits over other plugins: Simple one click access to perform a compatibility check or empty caches on the dashboard
